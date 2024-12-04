@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from Germany</h3>
 
 I'm a software developer with technical background and always been passionate about
-automation and programming. 🦾 
+automation and programming.
 The potential of data science and machine learning to
 solve complex problems and improve
 technology fascinates me. I aim to use my
