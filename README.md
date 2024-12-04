@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ole</h1>
 <h3 align="center">A passionate software developer from Germany</h3>
 
-🌱 I have always been passionate about automation and programming. The potential of data science and machine learning to solve complex problems and improve technology fascinates me. I aim to use my expertise to contribute to advancements in green technology and promote sustainability using data and technology.
+I'm a software developer with technical background and always been passionate about
+automation and programming. 🦾 
+The potential of data science and machine learning to
+solve complex problems and improve
+technology fascinates me. I aim to use my
+expertise to contribute to advancements in
+green technology and promote sustainability
+using data and technology. 🌿🔬
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
